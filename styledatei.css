@@ -1,0 +1,24 @@
+#head_title{
+	padding:0px;
+	text-align: center;
+	font-family:Tahoma, serif;
+	color:purple;
+	
+}
+#header{
+font-size: 70px;
+background-color:#F38630;
+margin-top: 3px;
+}
+#content{
+	font-size: 100px;
+	background-color:#A7DBD8;
+}
+#footer{	
+font-size:10px;
+	background-color:#69D2E7;
+}
+body{
+	
+	background: green;
+}
