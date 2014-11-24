@@ -1,26 +1,44 @@
+
+#header{
+	
+	height:25%;
+/**font-size: 70px;*/
+background-color:#fffff;
+}
 #head_title{
 	padding:0px;
 	text-align: center;
 	font-family:Tahoma, serif;
-	color:purple;
 	
 }
-#header{
-	width
-/**font-size: 70px;*/
-background-color:#F38630;
-margin-top: 3px;
+.iconethm{
+	margin-top: 10px;
 }
-
 #content{
 	
+	height:60%;
 	/**font-size: 5px;*/
-	background-color:#A7DBD8;
+	background-color:#80ffff;
 }
 #footer{
-	
+	height:15%;
 /**font-size:10px;*/
 	background-color:#69D2E7;
+}
+#linkMenu{
+	float: left;
+	width:25%;
+	height:100%;
+	background-color: #f4f887;
+}
+#rechtMenu{
+	float: right;
+	width: 25%;
+	height:100%;
+	background-color: #f4f887;
+}
+#center{
+	
 }
 body{
 	
