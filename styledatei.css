@@ -6,16 +6,20 @@
 	
 }
 #header{
-font-size: 70px;
+	width
+/**font-size: 70px;*/
 background-color:#F38630;
 margin-top: 3px;
 }
+
 #content{
-	font-size: 100px;
+	
+	/**font-size: 5px;*/
 	background-color:#A7DBD8;
 }
-#footer{	
-font-size:10px;
+#footer{
+	
+/**font-size:10px;*/
 	background-color:#69D2E7;
 }
 body{
