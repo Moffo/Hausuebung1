@@ -1,8 +1,6 @@
-
 #header{
-	
-	height:25%;
-/**font-size: 70px;*/
+	height:100px;
+
 background-color:#fffff;
 }
 #head_title{
@@ -15,38 +13,37 @@ background-color:#fffff;
 	margin-top: 10px;
 }
 #kontakt{
+	font-size:small;
 	color:#949494;
 }
 #content{
 	
-	height:60%;
-	/**font-size: 5px;*/
+	height:450px;
 	background-color:#80ffff;
 }
 #footer{
-	height:15%;
+	height:70px;
 /**font-size:10px;*/
 	background-color:#69D2E7;
 }
 #linkMenu{
-	float: left;
-	width:25%;
-	height:100%;
+	width:350px;
+	height:250px;
 	background-color: #f4f887;
+	float: left;
 }
 #rechtMenu{
-	float: right;
-	width: 25%;
-	height:100%;
+	width:350px;
+	height:250px;	
 	background-color: #f4f887;
+	float: right;
 }
 .submit{
 margin-left:56px;
 }
+.element{
+	display: block;
+}
 #center{
 	
-}
-body{
-	
-	background: green;
 }
